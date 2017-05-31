@@ -1,6 +1,6 @@
-# System Development Investigation
+# Connected Devices and Systems Investigation
 
-The goal of this file is the capture the various sensors, prototyping platforms, languages, frameworks, OSs, communication protocols, actuators and their corresponding integrations that drive the creation of non-trivial "connected devices" systems. At the end of this investigation we hope to have a repository of well documented pages that provide insight into the function of these various elements and how they can be implemented into useful systems.
+The goal of this repo is the capture the various sensors, prototyping platforms, languages, frameworks, OSs, communication protocols, actuators and their corresponding integrations that drive the creation of non-trivial connected devices and systems. At the end of this investigation we hope to have a set of well documented pages that provide insight into the function of these various elements and how they can be implemented into useful systems.
 
 ## Element Index
 
